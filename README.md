@@ -79,7 +79,7 @@ curl -X POST http://127.0.0.1:5000/extract \
 
 ## Code Explanation
 
-### Key Components
+### Key Component
 
 - **Flask App Initialization**:
   The Flask app is initialized and configured to use the OpenAI API key from the environment variables.
